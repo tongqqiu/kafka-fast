@@ -1,7 +1,7 @@
 kafka-clj
 ==========
 
-fast kafka library for any JVM language implemented in clojure 
+Fast kafka library for any JVM language implemented in clojure 
 
 The documentation contains examples in both clojure and java.  
 From the Java APIs you can use Scala, JRuby, Groovy etc.  
